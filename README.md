@@ -29,8 +29,6 @@
 
 ---
 
-## 🛡️ THE ORIGIN STORY
-
 Hey! I'm **Divya Ughade**, a Computer Engineering student at **PCCOE** who enjoys building useful applications and exploring emerging technologies.
 
 - 🔭 **Currently working on:** [Digital Twin](https://github.com/diivya1312/DigitalTwin)
@@ -38,7 +36,7 @@ Hey! I'm **Divya Ughade**, a Computer Engineering student at **PCCOE** who enjoy
 - 👯 **Looking to collaborate on:** [Hackathon projects](https://github.com/diivya1312/project) and innovative ideas
 - 🤝 **Looking for help with:** [Security Authentication](https://github.com/diivya1312/secureauth-ai-platform)
 - 👨‍💻 **Portfolio:** [Explore my projects](https://portfolio-six-delta-98.vercel.app/)
-- 💬 **Ask me about:** React, Vue.js, GSAP, JavaScript, and Full Stack Development
+- 💬 **Ask me about:**  Full Stack Development with MERN 
 - 📫 **Reach me at:** [divyaughade4@gmail.com](mailto:divyaughade4@gmail.com)
 - ⚡ **Fun fact:** I think I'm funny. The team is still investigating. 😄
 
@@ -76,7 +74,7 @@ Hey! I'm **Divya Ughade**, a Computer Engineering student at **PCCOE** who enjoy
 
 ---
 
-## 🧰 THE SUIT — LANGUAGES & TOOLS
+## 🧰 LANGUAGES & TOOLS
 
 <p align="center">
   <strong>PROGRAMMING LANGUAGES</strong><br/><br/>
