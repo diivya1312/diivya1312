@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🦸‍♀️ Hi, I'm Divya Ughade
+# Hi, I'm Divya Ughade
 
-### FULL STACK DEVELOPER | COMPUTER ENGINEERING STUDENT | AI/ML ENTHUSIAST
+### FULL STACK DEVELOPER | COMPUTER ENGINEERING STUDENT 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=E62429&center=true&vCenter=true&width=760&lines=Building+ideas+into+real+applications;Exploring+AI%2C+ML+%26+Generative+AI;Creating+with+React%2C+Vue+%26+Node.js;Learning+today.+Innovating+tomorrow." alt="Animated introduction" />
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=diivya1312&label=PROFILE%20VIEWS&color=e62429&style=for-the-badge" alt="Profile views" />
